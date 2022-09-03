@@ -1,0 +1,79 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #header{
+    margin:-10px;
+    color:white;
+    font-family: DM Sans;
+    background-color:#577a54;
+    text-align: center;
+    font-size:70px;
+    padding:50px;
+  }
+  
+  #extraNote{
+    position:absolute;
+    color:#577a54;
+    width:30vw;
+    height:10vh;
+    top:80vh;
+    left:58vw;
+    font-family: DM Sans;
+    font-size: 30px;
+    line-height: 10vh;
+  }
+  
+  #bodyText{
+    position:absolute;
+    font-family: DM Sans;
+    color: #577a54;
+    top:43vh;
+    height:10vh;
+    left:5vw;
+    width:90vw;
+    font-size:30px;
+    text-align: center;
+  }
+  
+  #inputBox{
+    position:absolute;
+    border-style: none;
+    width:100vw;
+    margin:-10px;
+    background-color:#577a54;
+    text-align: center;
+    height:20vh;
+    font-size: 60px;
+    color:white;
+    top:55vh;
+    font-family: DM Sans;
+  }
+  
+  #button{
+    position:absolute;
+    left:42.5vw;
+    width:15vw;
+    height:10vh;
+    background-color:#577a54;
+    border-style:none;
+    color:white;
+    font-family: DM Sans;
+    font-size:30px;
+    top:80vh;
+  }
+  
+  #footer{
+    position:absolute;
+    background-color:#577a54;
+    width:100vw;
+    height:30vh;
+    top:100vh;
+    font-family: DM Sans;
+    font-size: 70px;
+    line-height: 30vh;
+    color:white;
+    margin:-10px;
+    text-align: center;
+  }
