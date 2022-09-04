@@ -1,4 +1,4 @@
-View website at   [http://https://radicalspace.github.io/tab_markers/](http://https://radicalspace.github.io/tab_markers/)
+View website at   [https://radicalspace.github.io/tab_markers/](https://radicalspace.github.io/tab_markers/)
 
 # Introduction
 
